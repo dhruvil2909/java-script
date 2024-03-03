@@ -10,3 +10,10 @@
 
 console.log(typeof "dhruvil");
 console.log(typeof 13);
+ 
+
+let name= "dhruvil"
+let age= 17
+let isLoggedin= false
+
+console.table([name,age,isLoggedin]);
