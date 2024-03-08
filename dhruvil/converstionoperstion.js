@@ -35,7 +35,7 @@ let str1="dhruvil"
 let str2=" prajapati"
 let str3=str1 + str2
 
-//console.log(str3);
+// console.log(str3);
 
 let gamescore=20
 gamescore++;
@@ -50,4 +50,4 @@ let value = 3
 let negValue = -value
 //console.log(negValue);
 
-console.log(2**3);
+// console.log(2**3);
