@@ -9,7 +9,7 @@ let valueinnumber=Number(score)
 
 
 //33 =>33
-//"33abc =>nan(not and number"
+//"33abc =>nan(not and number)
 //true=>1 ;false=>0
 
 let isLoggedIn=0
