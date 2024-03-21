@@ -27,10 +27,10 @@ let myObj = {
 }
 
 const myFunction = function(){
-    console.log("Hello world");
+    // console.log("Hello world");
 }
 
-console.log(typeof myObj);
+// console.log(typeof myObj);
 
 // **********************************************************
 // stack(primitive) heap(non-primitive)
@@ -40,8 +40,8 @@ let myyoutubename = "dhruvil jethava"
 let anothername = myyoutubename
 anothername = "prajapati"
 
-console.log(myyoutubename);
-console.log(anothername);
+// console.log(myyoutubename);
+// console.log(anothername);
 
 let userone = {
     email:"dhruvil@gmail.com",
@@ -50,6 +50,8 @@ let userone = {
 let usertwo=userone
 
 usertwo.email="dj@gmail.com"
+
 // console.log(userone.email);
 // console.log(usertwo.email);
+
 
