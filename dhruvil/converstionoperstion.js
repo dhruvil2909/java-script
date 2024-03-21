@@ -40,7 +40,7 @@ let str3=str1 + str2
 let gamescore=20
 gamescore++;
 
-//console.log(gamescore)
+console.log(gamescore)
 
 let gamescore2=20
 ++gamescore2;
