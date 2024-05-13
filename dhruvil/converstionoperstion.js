@@ -48,6 +48,6 @@ let gamescore2=20
 
 let value = 3
 let negValue = -value
-//console.log(negValue);
+// console.log(negValue);
 
 // console.log(2**3);
