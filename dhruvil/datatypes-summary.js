@@ -30,7 +30,7 @@ const myFunction = function(){
     // console.log("Hello world");
 }
 
- console.log(typeof myObj);
+ console.log(myFunction);
 
 // **********************************************************
 // stack(primitive) heap(non-primitive)
@@ -51,7 +51,7 @@ let usertwo=userone
 
 usertwo.email="dj@gmail.com"
 
-  console.log(userone.email);
-  console.log(usertwo.email);
+//   console.log(userone.email);
+//   console.log(usertwo.email);
 
 
